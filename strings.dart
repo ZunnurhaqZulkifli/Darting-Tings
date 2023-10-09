@@ -15,5 +15,5 @@ void main() {
     print(dict[i]);
   }
 
-  // print("My Name is : ${name}" "I am ${yearBorn}, Years old!");
+  print("My Name is : ${name}" "I am ${yearBorn}, Years old!");
 }
