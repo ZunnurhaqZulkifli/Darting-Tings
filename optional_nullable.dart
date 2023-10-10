@@ -9,8 +9,6 @@ String? someValue;
 
 void main() {
   
-  print(someValue);
-  
   someValue = '466 Hello Wordls';
 
   //Note that operator ? is used to see identify whether the value is isset or not (null). a shortform of a tenary operator (if else statement)

@@ -22,9 +22,9 @@ void main()
   // }
 
   //3. Character length loops
-  // String minji = 'minji';
+  // String zunnurhaq = 'zunnurhaq bin zulkifli';
 
-  // int tl = minji.length;
+  // int tl = zunnurhaq.length;
 
   // for(int i = 0; i < tl; i++) {
   //   print(minji.substring(i, tl));

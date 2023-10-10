@@ -46,10 +46,12 @@ void main() {
 
   //This is the third approach
   students = students.where((student) => student.marks >= 50).toList();
+  
   print(students);
 
-
   print(students.reversed.toList());
+  
+  // students.
 
   // students.insert(3, Student('Zunnurhaq'));
   // print(students);

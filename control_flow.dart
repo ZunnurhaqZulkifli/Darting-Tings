@@ -60,7 +60,7 @@ void main() {
 
   switch(someValue) {
     case 'Hi' when age == 20:
-    print('Minji Comel :3');
+    print('Dhiha Comel :3');
     break;
 
     case 'Hi!' :

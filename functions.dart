@@ -66,3 +66,11 @@
 // }
 
 // String printStuff() => 'Zunnurhaq';
+
+
+void main() {
+  final nama = printThis();
+  print(nama);
+}
+
+String printThis() => 'Zunnurhaq';
